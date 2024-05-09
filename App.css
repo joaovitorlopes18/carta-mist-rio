@@ -1,0 +1,31 @@
+.input{
+    padding: 10px;
+    font-style: 16px;
+}
+
+.button{
+    padding: 10px 20px;
+    font-style: 18px;
+    background-color: #b61414;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+.letter-container{
+    margin-top: 20px;
+}
+
+.letter-card{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(72, 194, 78);
+    border: none;
+    font-style: inherit;
+    color: inherit;
+}
+
+body{
+    background-color: black;
+}
